@@ -1,5 +1,6 @@
 {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 	"folders": [
 		{
 			"path": "../Coding"
@@ -10,10 +11,15 @@
 	],
 	"settings": {}
 =======
+=======
+>>>>>>> Stashed changes
     "folders": [
         {
             "path": "."
         }
     ]
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 }
