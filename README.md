@@ -1,3 +1,4 @@
-# Github and git conflict
-UNO start semester - FALL 2022
-UNO designation - Bachelor's in Computer Science 
+# Github and git <br>
+UNO start semester - FALL 2022 <br>
+UNO designation - Bachelor's in Computer Science  <br>
+
